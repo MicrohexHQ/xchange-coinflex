@@ -1,4 +1,4 @@
-# xchange-coinfloor
+# xchange-CoinFLEX
 
 This module adapts CoinFLEX's [Java client library][java-library] to implement the [XChange][] API.
 
