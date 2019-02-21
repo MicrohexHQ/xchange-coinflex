@@ -7,7 +7,7 @@ This module adapts CoinFLEX's [Java client library][java-library] to implement t
 
 ## Building
 
-This project is built with [Maven][]. It depends on the [Coinfloor Java client library][java-library], which you must fetch and install first.
+This project is built with [Maven][]. It depends on the [CoinFLEX Java client library][java-library], which you must fetch and install first.
 
 ```
 $ git clone -b v1.0 https://github.com/coinfloor/java-library.git coinfloor-library
